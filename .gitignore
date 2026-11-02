@@ -1,0 +1,5 @@
+build/bin/
+data/
+frontend/wailsjs/
+node_modules/
+*.exe
