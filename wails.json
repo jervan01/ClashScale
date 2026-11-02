@@ -1,0 +1,14 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "ClashScale",
+  "outputfilename": "ClashScale",
+  "frontend:dir": "frontend",
+  "author": { "name": "ClashScale" },
+  "info": {
+    "companyName": "",
+    "productName": "ClashScale",
+    "productVersion": "1.0.0",
+    "copyright": "",
+    "comments": "Mihomo proxy + Tailscale mesh"
+  }
+}
