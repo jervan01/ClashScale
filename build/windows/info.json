@@ -1,0 +1,13 @@
+{
+  "fixed": { "file_version": "1.0.0" },
+  "info": {
+    "0000": {
+      "ProductVersion": "1.0.0",
+      "CompanyName": "",
+      "FileDescription": "ClashScale - Mihomo proxy + Tailscale mesh in one app",
+      "LegalCopyright": "",
+      "ProductName": "ClashScale",
+      "Comments": ""
+    }
+  }
+}
